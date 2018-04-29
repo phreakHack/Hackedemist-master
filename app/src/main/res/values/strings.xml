@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="web_client_id">303211846795-cc0is5sb1e07qb8ur1nfmef3jir5733h.apps.googleusercontent.com</string>
+
+    <string name="welcometohackummins">WELCOME TO HACKUMMINS</string>
+    <string name="easyLevel">EASY LEVEL</string>
+    <string name="mediumLevel">MEDIUM LEVEL</string>
+    <string name="diffcultLevel">DIFFICULT LEVEL</string>
+
+    <string-array name="email_options">
+        <item>gmail.com</item>
+        <item>yahoo.com</item>
+    </string-array>
+
+    <string name="application_name">HACKEDEMIST</string>
+    <string name="shared_user_label">User</string>
+    <string name="new_session">New session</string>
+    <string name="new_session_failsafe">Failsafe</string>
+    <string name="toggle_soft_keyboard">Keyboard</string>
+    <string name="reset_terminal">Reset</string>
+    <string name="style_terminal">Style</string>
+    <string name="toggle_fullscreen">Fullscreen</string>
+    <string name="share_transcript_title">Terminal transcript</string>
+    <string name="help">Help</string>
+
+    <string name="welcome_dialog_title">Welcome to Hackummins</string>
+    <string name="welcome_dialog_body">Please Establish SSH Connection Host IP : 172.16.32.35 Username : root Password : root123 <b> and apt-get update</b> to update the packages list before installing packages.</string>
+    <string name="welcome_dialog_dont_show_again_button">Do not show again</string>
+
+    <string name="bootstrap_installer_body">Installing…</string>
+    <string name="bootstrap_error_title">Unable to install</string>
+    <string name="bootstrap_error_body">Hackummins was unable to install the bootstrap packages.\n\nCheck your network connection and try again.</string>
+    <string name="bootstrap_error_abort">Abort</string>
+    <string name="bootstrap_error_try_again">Try again</string>
+    <string name="bootstrap_error_not_primary_user_message">Hackummins can only be installed on the primary user account.</string>
+
+    <string name="max_terminals_reached_title">Max terminals reached</string>
+    <string name="max_terminals_reached_message">Close down existing ones before creating new.</string>
+
+    <string name="reset_toast_notification">Terminal reset.</string>
+
+    <string name="select_url">Select URL</string>
+    <string name="select_url_dialog_title">Click URL to copy or long press to open</string>
+    <string name="select_all_and_share">Share transcript</string>
+    <string name="select_url_no_found">No URL found in the terminal.</string>
+    <string name="select_url_copied_to_clipboard">URL copied to clipboard</string>
+    <string name="share_transcript_chooser_title">Send text to:</string>
+
+    <string name="paste_text">Paste</string>
+    <string name="copy_text">Copy</string>
+    <string name="text_selection_more">More…</string>
+
+    <string name="kill_process">Kill process (%d)</string>
+    <string name="confirm_kill_process">Really kill this session?</string>
+
+    <string name="session_rename_title">Set session name</string>
+    <string name="session_rename_positive_button">Set</string>
+    <string name="session_new_named_title">New named session</string>
+    <string name="session_new_named_positive_button">Create</string>
+
+    <string name="styling_not_installed">The Hackummins:Style add-on is not installed.</string>
+    <string name="styling_install">Install</string>
+
+    <string name="notification_action_exit">Exit</string>
+    <string name="notification_action_wake_lock">Acquire wakelock</string>
+    <string name="notification_action_wake_unlock">Release wakelock</string>
+
+    <string name="file_received_title">Save file in ~/downloads/</string>
+    <string name="file_received_edit_button">Edit</string>
+    <string name="file_received_open_folder_button">Open folder</string>
+
+    <string name="easy_challenge_1">Enter the hostname and log name as password together.</string>
+    <string name="easy_challenge_2">What is similar to -> whatis ?</string>
+    <string name="easy_challenge_3">The captain handles the long file and the password lies towards the century.</string>
+    <string name="easy_challenge_4">What is the brainsize of the filesystem in the root?</string>
+    <string name="easy_challenge_5">Password is the difference between file1 and file2</string>
+    <string name="easy_challenge_6">Grab the ‘password’ from the Linux file.</string>
+    <string name="easy_challenge_7">Password is the file owned by admin.</string>
+    <string name="easy_challenge_8">Find the number of empty lines in the file.</string>
+    <string name="easy_challenge_9">Password is the empty file in the current directory without dot.</string>
+    <string name="easy_challenge_10">Get the PID of bash.</string>
+
+
+    <string name="medium_challenge_1">Find the host IP of ‘kali.org’.</string>
+    <string name="medium_challenge_2">Can your host IP get you the password??</string>
+    <string name="medium_challenge_3">‘Admin’ should crack the compiled C file and then get the password within TIME.</string>
+    <string name="medium_challenge_4">Password is the hexadecimal form of the instructions stored in the ‘String’, somewhere near empty lines.</string>
+    <string name="medium_challenge_5">Password is the IP of Korea which is already caught in the packet.</string>
+
+
+    <string name="hard_challenge_1">Perform SQL injection on the Login Page and get the password.</string>
+    <string name="hard_challenge_2">Write a simple C program of Subtraction and disassemble the binary file.</string>
+    <string name="hard_challenge_3">Set up a listener and see if you can get the passwords on terminal through listener.</string>
+
+    <string name="message_open_terminal">Open Terminal</string>
+    <string name="message_question">Question</string>
+    <string name="hint_enter_answer">Write your answer here</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="get_hint">Get Hint</string>
+    <string name="enter_host_name_and_password_together">demo_question</string>
+
+    <string name="hack_for_good">&lt;Hack For Good\/&gt;</string>
+    <string name="ready_to_hack">Ready to Hack?</string>
+    <string name="title_activity_level_select">LevelSelectActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+</resources>
+
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303211846795",
+    "firebase_url": "https://hackedemist-3ed22.firebaseio.com",
+    "project_id": "hackedemist-3ed22",
+    "storage_bucket": "hackedemist-3ed22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303211846795:android:0733b50233852400",
+        "android_client_info": {
+          "package_name": "com.term"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303211846795-vfvrith0r2v5m5v11e24moavupu4a5vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.term",
+            "certificate_hash": "287d1ebcb2d548dc93cfbd1c41a9e6114f96bd29"
+          }
+        },
+        {
+          "client_id": "303211846795-cc0is5sb1e07qb8ur1nfmef3jir5733h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvND-cZmoBeacZw-yrpUB7w8OSz8CNxHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303211846795-cc0is5sb1e07qb8ur1nfmef3jir5733h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
